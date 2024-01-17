@@ -1,0 +1,14 @@
+###
+GET http://localhost:8080/book
+
+###
+GET http://localhost:8080/book/1
+
+###
+GET http://localhost:8080/book/2
+
+###
+GET http://localhost:8080/book/10
+
+###
+POST http://localhost:8080/copy/4/borrow
